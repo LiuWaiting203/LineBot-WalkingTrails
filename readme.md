@@ -2,7 +2,7 @@
 
 ## LineBot 好友 ID
 
-**@394ibdop**
+**@394ibdop**  
 ![QR Code](https://i.ibb.co/3dP3PS6/394ibdop.png)
 
 ## 資料來源連結
