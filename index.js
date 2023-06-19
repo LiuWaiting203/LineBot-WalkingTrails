@@ -127,7 +127,6 @@ bot.on('message', async event => {
               }
             }
           }
-
           event.reply(flexMessage)
           return
         }
