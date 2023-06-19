@@ -5,7 +5,7 @@
 ## LineBot 好友 ID
 
 - **@394ibdop**
-- QR Code
+- QR Code  
   ![QR Code](https://i.ibb.co/3dP3PS6/394ibdop.png)
 
 ---
